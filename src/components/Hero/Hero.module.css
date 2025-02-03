@@ -26,12 +26,10 @@
     rgba(255 , 255, 255, 1)70%,
     rgba(255,255,255,0)120%);
     -webkit-text-fill-color:transparent;
-    -webkit-background-clip:text;
-<<<<<<< HEAD
-
-=======
     background-clip: text;
->>>>>>> dad2fb0677fda91b1e84d87fbd02719d83a28ec2
+    -webkit-background-clip:text;
+    
+    
 }
 .description{
     font-size: 30px;
