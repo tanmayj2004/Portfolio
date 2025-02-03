@@ -29,7 +29,4 @@ cd Portfolio
 npm install
 npm start
 
-## 🌟 Show Some Love!
-If you like this portfolio, don't forget to **⭐ Star the repository** on GitHub!  
-Your support helps me improve and add new features. 😊  
-Click here to **[Star the Repo ⭐](https://github.com/tanmayj2004/Portfolio)**.
+
