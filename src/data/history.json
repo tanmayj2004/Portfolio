@@ -1,0 +1,22 @@
+[
+    {
+      "role": "Google Developer Student Club",
+      "organisation": "Google",
+      "startDate": "Aug, 2023",
+      "endDate": "Jan, 2024",
+      "experiences": ["Organized and ran Code Kraken hackathon with my team", "Reduced load times by 50%"],
+      "imageSrc": "history/google.png"
+    },
+    
+    {
+      "role": "Backend Webdevelopment Intern",
+      "organisation": "Cloudcredits Technologies",
+      "startDate": "Jan, 2024",
+      "endDate": "Feb, 2024",
+      "experiences": [
+        "Worked on component library",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/cloud.avif"
+    }
+  ]

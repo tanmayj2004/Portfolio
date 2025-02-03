@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Wondarlust",
+      "imageSrc": "projects/project1.png",
+      "description": " A project to learn modern web technologies by building a travel platform.",
+      "skills": ["MongoDb", "Express", "Node"],
+      "demo": "https://wanderlust-dvx2.onrender.com/",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Chatbot",
+      "imageSrc": "projects/project2.png",
+      "description": "Designed and developed an AI-powered chatbot to simulate conversational interactions.",
+      "skills": ["HTML", "CSS", "JvaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "A personal portfolio built with React to showcase my skills, projects, and experience.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
