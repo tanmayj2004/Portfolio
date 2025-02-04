@@ -23,7 +23,9 @@
     align-items: center;
 }
 .aboutImage{
-    width: 35%;
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
 }
 .aboutItems{
     color: var(--color-text);
