@@ -17,6 +17,17 @@
     color: var(--color-text);
     z-index: 1;
 }
+@keyframes textAnimation {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
 .title {
     font-size: 72px;
     font-weight: 900;
@@ -27,13 +38,16 @@
     background-clip: text;
     -webkit-background-clip: text;
     display: inline-block;
+    
+    animation: textAnimation 1.5s ease-in-out;
 }
+
 .description{
     font-size: 30px;
     font-family: var(--font-roboto);
     margin-bottom: 52px;
 }
- .contactBtn{
+ .resumeBtn{
     text-decoration: none;
     background-color: var(--color-primary);
     color: var(--color-text);
@@ -44,8 +58,13 @@
     box-shadow: 0 0 4px 0 rgba(0 0 0 0.25);
  }
  .heroImg{
-    width: 50%;
+    
     z-index: 1;
+    width: 250px;  /* Adjust size */
+    height: auto;   /* Maintain aspect ratio */
+    object-fit: cover;
+    border-radius: 50%; /* Makes it circular */
+    
 
     animation-name: floating;
     animation-duration: 3s;

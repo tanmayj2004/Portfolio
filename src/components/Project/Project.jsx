@@ -1,7 +1,7 @@
 import React from "react";
 import project1 from "../../assets/projects/project1.png";
 import project2 from "../../assets/projects/project2.png";
-import project3 from "../../assets/projects/project.png";
+import project3 from "../../assets/projects/project3.png";
 import styles from "./Project.module.css"
 
 
@@ -14,7 +14,7 @@ const projects =
       "description": " A project to learn modern web technologies by building a travel platform.",
       "skills": ["MongoDb", "Express", "Node"],
       "demo": "https://wanderlust-dvx2.onrender.com/",
-      "source": "https://www.github.com"
+      "source": "https://github.com/tanmayj2004/Wanderlust"
     },
     {
       "title": "Chatbot",
@@ -22,15 +22,15 @@ const projects =
       "description": "Designed and developed an AI-powered chatbot to simulate conversational interactions.",
       "skills": ["HTML", "CSS", "JavaScript"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/tanmayj2004/Elara-chatbot"
     },
     {
       "title": "Portfolio",
       "imageSrc": project3,
       "description": "A personal portfolio built with React to showcase my skills, projects, and experience.",
       "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://tanmayjain.vercel.app",
+      "source": "https://github.com/tanmayj2004/Portfolio"
     }
   ]
 
